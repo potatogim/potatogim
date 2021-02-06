@@ -1,6 +1,6 @@
 ### Hi there!
 
-| <img src="https://github-readme-stats.vercel.app/api?username=potatogim&show_icons=true&theme=default&include_all_commits=true" alt="potatogim" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatogim&layout=compact&theme=vue&langs_count=10&hide=tsql,css" alt="potatogim" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=potatogim&show_icons=true&theme=default&include_all_commits=true" alt="potatogim" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatogim&layout=compact&theme=default&langs_count=10&hide=tsql,css" alt="potatogim" /> |
 |--- |---
 
 <br />
