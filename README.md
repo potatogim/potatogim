@@ -1,6 +1,6 @@
 ### Hi there!
 
-| <img src="https://github-readme-stats.vercel.app/api?username=potatogim&show_icons=true&theme=default&include_all_commits=true" alt="potatogim" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatogim&layout=compact&theme=default&langs_count=10&hide=tsql,css" alt="potatogim" /> |
+| [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=potatogim&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=potatogim&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github) | [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=potatogim&langs_count=10&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=potatogim&langs_count=10&theme=light_github) |
 |--- |---
 
 <br />
